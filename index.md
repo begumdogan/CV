@@ -10,12 +10,14 @@
 
 ## Summary
 
-Experienced software engineer with a proven track record of delivering high-impact solutions across
+Experienced Software engineer with a proven track record of delivering high-impact solutions across
 various industries. Skilled at leading development teams, driving innovation, and bridging technical and
 non-technical stakeholders to ensure successful project delivery. Expert in both front-end and back-end
 technologies, with a focus on performance optimization, cloud solutions, and clean code practices.
 Proficient in technical presentations and developing Proof of Concepts (PoC) that align with business
 goals.
+Besides professional career, I enjoy gardening especially pruning, to keep the plant thriving and shaping into a mold. Bougainvillea are my favorite as they are resilient and ready to grow.
+Very recently picked up my paint by numbers canvas and %67 complete with the brush strokes. It will be a magestic copy of The Great Wave off Kanagawa.
 
 ## Experience
 
